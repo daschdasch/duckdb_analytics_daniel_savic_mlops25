@@ -1,0 +1,2 @@
+# duckdb_analytics_daniel_savic_mlops25
+duckdb intro
